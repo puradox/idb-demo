@@ -1,0 +1,17 @@
+{
+  "name": "idb-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server -p 8000"
+  },
+  "author": "Sam Balana",
+  "license": "ISC",
+  "dependencies": {
+    "idb": "^2.1.3"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
